@@ -1,3 +1,6 @@
+# 1% better.
+
+<!--
 # Hi there 👋, I'm Can 
 
 I'm passionate about building my future in the **Cloud & DevOps** ecosystem. I enjoy solving technical problems, learning new technologies, and continuously improving myself both inside and outside of tech.
@@ -38,3 +41,5 @@ I'm passionate about building my future in the **Cloud & DevOps** ecosystem. I e
 * 🔧 Mastering Git & GitHub workflows 
 * ☁️ Exploring Cloud technologies 
 * 🚀 Building projects and growing my portfolio 
+
+-->
