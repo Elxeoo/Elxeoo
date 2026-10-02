@@ -61,14 +61,3 @@
 
 <div align="center">
 
-<br>
-
-<h3><code>can@github ~ $ cat philosophy.md</code></h3>
-
-</div>
-
-> **🚀 1% better every day.** I strongly believe in the power of compounding growth. My daily goal is simple: be 1% better than yesterday. Whether it's learning a new technology, improving a workflow, or building stronger habits, continuous progress is my ultimate metric. 📈
-
-I am a Cloud and DevOps practitioner with a background in high-tempo hospitality operations (managing 500+ room resorts and crisis escalations). I transitioned that operational endurance into IT infrastructure, focusing on highly available, secure, and automated cloud environments.
-
-In my previous career, "downtime" meant guests stranded in lobbies. In DevOps, downtime means lost revenue and broken trust. I build systems with the exact same urgency, resilience, and attention to detail that I applied to real-world crisis management.
