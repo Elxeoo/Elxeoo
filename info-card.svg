@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="490" height="560" viewBox="0 0 490 560" role="img" aria-label="can@github: ~ — ./wordmark.sh --3d">
+<defs>
+  <clipPath id="win"><rect x="0" y="0" width="490" height="560" rx="10"/></clipPath>
+  <linearGradient id="gold" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="490" y2="0" spreadMethod="reflect"><stop offset="0" stop-color="#e3b341"/><stop offset="0.45" stop-color="#ffd77a"/><stop offset="0.5" stop-color="#fff6dc"/><stop offset="0.55" stop-color="#ffd77a"/><stop offset="1" stop-color="#e3b341"/><animateTransform attributeName="gradientTransform" type="translate" from="-490" to="490" begin="1.6s" dur="4s" repeatCount="indefinite"/></linearGradient>
+<clipPath id="w0"><rect x="22" y="54.00" width="0" height="15.49"><animate attributeName="width" from="0" to="448.00" begin="0.15s" dur="0.45s" fill="freeze"/></rect></clipPath>
+<clipPath id="w1"><rect x="22" y="68.99" width="0" height="15.49"><animate attributeName="width" from="0" to="448.00" begin="0.22s" dur="0.45s" fill="freeze"/></rect></clipPath>
+<clipPath id="w2"><rect x="22" y="83.99" width="0" height="15.49"><animate attributeName="width" from="0" to="448.00" begin="0.29s" dur="0.45s" fill="freeze"/></rect></clipPath>
+<clipPath id="w3"><rect x="22" y="98.98" width="0" height="15.49"><animate attributeName="width" from="0" to="448.00" begin="0.36s" dur="0.45s" fill="freeze"/></rect></clipPath>
+<clipPath id="w4"><rect x="22" y="113.98" width="0" height="15.49"><animate attributeName="width" from="0" to="448.00" begin="0.43s" dur="0.45s" fill="freeze"/></rect></clipPath>
+<clipPath id="w5"><rect x="22" y="128.97" width="0" height="15.49"><animate attributeName="width" from="0" to="448.00" begin="0.50s" dur="0.45s" fill="freeze"/></rect></clipPath>
+<clipPath id="w6"><rect x="22" y="143.97" width="0" height="15.49"><animate attributeName="width" from="0" to="448.00" begin="0.57s" dur="0.45s" fill="freeze"/></rect></clipPath>
+<clipPath id="w7"><rect x="22" y="158.96" width="0" height="15.49"><animate attributeName="width" from="0" to="448.00" begin="0.64s" dur="0.45s" fill="freeze"/></rect></clipPath>
+<clipPath id="w8"><rect x="22" y="173.96" width="0" height="15.49"><animate attributeName="width" from="0" to="448.00" begin="0.71s" dur="0.45s" fill="freeze"/></rect></clipPath>
+<clipPath id="w9"><rect x="22" y="188.95" width="0" height="15.49"><animate attributeName="width" from="0" to="448.00" begin="0.78s" dur="0.45s" fill="freeze"/></rect></clipPath>
+</defs>
+<style>
+  text { font-family: ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace; }
+  .title { fill: #8b949e; font-size: 11px; }
+  .w{font-size:13.80px;white-space:pre;font-weight:700}
+.front{fill:url(#gold)}
+.side{fill:#6b4f12}
+.sub{fill:#8b949e;font-size:11px}
+.p{fill:#e3b341;font-size:12px} .pc{fill:#e6edf3;font-size:12px}
+.k{fill:#e3b341;font-size:12px;font-weight:700} .v{fill:#e6edf3;font-size:12px}
+.h{fill:#ffd77a;font-size:13px;font-weight:700} .rule{stroke:#30363d}
+@keyframes blink{0%,49%{opacity:1}50%,100%{opacity:0}} .cur{animation:blink 1s step-end infinite}
+@keyframes rise{from{opacity:0;transform:translateX(-10px)}to{opacity:1;transform:none}}.ln{opacity:0;animation:rise .45s ease-out forwards}
+</style>
+<g clip-path="url(#win)">
+  <rect width="490" height="560" fill="#0d1117"/>
+  <rect width="490" height="28" fill="#161b22"/>
+  <line x1="0" y1="28" x2="490" y2="28" stroke="#30363d"/>
+  <circle cx="16" cy="14" r="5.5" fill="#ff5f56"/>
+  <circle cx="34" cy="14" r="5.5" fill="#ffbd2e"/>
+  <circle cx="52" cy="14" r="5.5" fill="#27c93f"/>
+  <text class="title" x="245.0" y="18" text-anchor="middle">can@github: ~ — ./wordmark.sh --3d</text>
+<g clip-path="url(#w0)"><text class="w front" x="22" y="66.00" textLength="446.00" lengthAdjust="spacingAndGlyphs" xml:space="preserve">    ############          ####          ####        ####  </text></g>
+<g clip-path="url(#w1)"><text class="w side" x="22" y="80.99" textLength="446.00" lengthAdjust="spacingAndGlyphs" xml:space="preserve">      ++++++++  ++                                      ++</text><text class="w front" x="22" y="80.99" textLength="446.00" lengthAdjust="spacingAndGlyphs" xml:space="preserve">  ####        ##        ########        ######      ####  </text></g>
+<g clip-path="url(#w2)"><text class="w side" x="22" y="95.99" textLength="446.00" lengthAdjust="spacingAndGlyphs" xml:space="preserve">    ++++       +++        ++++                          ++</text><text class="w front" x="22" y="95.99" textLength="446.00" lengthAdjust="spacingAndGlyphs" xml:space="preserve">####                  ####    ####      ########    ####  </text></g>
+<g clip-path="url(#w3)"><text class="w side" x="22" y="110.98" textLength="446.00" lengthAdjust="spacingAndGlyphs" xml:space="preserve">    ++                  ++++   +            ++          ++</text><text class="w front" x="22" y="110.98" textLength="446.00" lengthAdjust="spacingAndGlyphs" xml:space="preserve">####                ####        ####    ####  ####  ####  </text></g>
+<g clip-path="url(#w4)"><text class="w side" x="22" y="125.98" textLength="446.00" lengthAdjust="spacingAndGlyphs" xml:space="preserve">    ++                  ++          ++      ++ +        ++</text><text class="w front" x="22" y="125.98" textLength="446.00" lengthAdjust="spacingAndGlyphs" xml:space="preserve">####                ####        ####    ####    ########  </text></g>
+<g clip-path="url(#w5)"><text class="w side" x="22" y="140.97" textLength="446.00" lengthAdjust="spacingAndGlyphs" xml:space="preserve">    ++                              ++      ++   +      ++</text><text class="w front" x="22" y="140.97" textLength="446.00" lengthAdjust="spacingAndGlyphs" xml:space="preserve">####                ################    ####      ######  </text></g>
+<g clip-path="url(#w6)"><text class="w side" x="22" y="155.96" textLength="446.00" lengthAdjust="spacingAndGlyphs" xml:space="preserve">    ++                  ++++++++    ++      ++     +    ++</text><text class="w front" x="22" y="155.96" textLength="446.00" lengthAdjust="spacingAndGlyphs" xml:space="preserve">####                ####        ####    ####        ####  </text></g>
+<g clip-path="url(#w7)"><text class="w side" x="22" y="170.96" textLength="446.00" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> +                      ++          ++      ++          ++</text><text class="w front" x="22" y="170.96" textLength="446.00" lengthAdjust="spacingAndGlyphs" xml:space="preserve">  ####        ##    ####        ####    ####        ####  </text></g>
+<g clip-path="url(#w8)"><text class="w side" x="22" y="185.95" textLength="446.00" lengthAdjust="spacingAndGlyphs" xml:space="preserve">   +            ++      ++          ++      ++          ++</text><text class="w front" x="22" y="185.95" textLength="446.00" lengthAdjust="spacingAndGlyphs" xml:space="preserve">    ############    ####        ####    ####        ####  </text></g>
+<g clip-path="url(#w9)"><text class="w side" x="22" y="200.95" textLength="446.00" lengthAdjust="spacingAndGlyphs" xml:space="preserve">     +++++++++++++   +++++       +++++   +++++       +++++</text></g>
+<g class="ln" style="animation-delay:1.15s"><text class="sub" x="245.0" y="225.9" text-anchor="middle">Cloud &amp; DevOps Engineer · Azure · Kubernetes · GitOps</text></g>
+<g class="ln" style="animation-delay:1.27s"><text x="22" y="259.9"><tspan class="p">can@github</tspan><tspan class="pc"> ~ $ neofetch</tspan></text></g>
+<g class="ln" style="animation-delay:1.39s"><text class="h" x="22" y="283.9">can<tspan fill="#8b949e">@</tspan>dumanli</text></g>
+<g class="ln" style="animation-delay:1.51s"><line class="rule" x1="22" y1="291.9" x2="172" y2="291.9"/></g>
+<g class="ln" style="animation-delay:1.63s"><text x="22" y="311.9" xml:space="preserve"><tspan class="k">Role     </tspan><tspan class="v">Cloud &amp; DevOps Engineer</tspan></text></g>
+<g class="ln" style="animation-delay:1.75s"><text x="22" y="330.9" xml:space="preserve"><tspan class="k">Cloud    </tspan><tspan class="v">Azure · Terraform (Hub-Spoke)</tspan></text></g>
+<g class="ln" style="animation-delay:1.87s"><text x="22" y="349.9" xml:space="preserve"><tspan class="k">Network  </tspan><tspan class="v">VNets · NSG · RBAC · Zero-Trust</tspan></text></g>
+<g class="ln" style="animation-delay:1.99s"><text x="22" y="368.9" xml:space="preserve"><tspan class="k">K8s      </tspan><tspan class="v">AKS · Docker · Cilium eBPF</tspan></text></g>
+<g class="ln" style="animation-delay:2.11s"><text x="22" y="387.9" xml:space="preserve"><tspan class="k">CI/CD    </tspan><tspan class="v">GitHub Actions · Azure Pipelines · Argo CD</tspan></text></g>
+<g class="ln" style="animation-delay:2.23s"><text x="22" y="406.9" xml:space="preserve"><tspan class="k">Certs    </tspan><tspan class="v">AZ-104 908 · Network+ 815</tspan></text></g>
+<g class="ln" style="animation-delay:2.35s"><text x="22" y="425.9" xml:space="preserve"><tspan class="k">Now      </tspan><tspan class="v">AZ-400 (in progress)</tspan></text></g>
+<g class="ln" style="animation-delay:2.47s"><text x="22" y="444.9" xml:space="preserve"><tspan class="k">Before   </tspan><tspan class="v">500+ room resort ops &amp; crisis desk</tspan></text></g>
+<g class="ln" style="animation-delay:2.59s"><text x="22" y="463.9" xml:space="preserve"><tspan class="k">Motto    </tspan><tspan class="v">1% better every day</tspan></text></g>
+<g class="ln" style="animation-delay:2.71s"><g><rect x="22" y="486.9" width="22" height="11" rx="2" fill="#0d1117" stroke="#30363d"/><rect x="48" y="486.9" width="22" height="11" rx="2" fill="#3c4b5e" stroke="#30363d"/><rect x="74" y="486.9" width="22" height="11" rx="2" fill="#79a6d2" stroke="#30363d"/><rect x="100" y="486.9" width="22" height="11" rx="2" fill="#6b4f12" stroke="#30363d"/><rect x="126" y="486.9" width="22" height="11" rx="2" fill="#a87a1c" stroke="#30363d"/><rect x="152" y="486.9" width="22" height="11" rx="2" fill="#e3b341" stroke="#30363d"/><rect x="178" y="486.9" width="22" height="11" rx="2" fill="#ffd77a" stroke="#30363d"/><rect x="204" y="486.9" width="22" height="11" rx="2" fill="#ffe9a8" stroke="#30363d"/></g></g>
+<g class="ln" style="animation-delay:2.83s"><text x="22" y="526.9"><tspan class="p">can@github</tspan><tspan class="pc"> ~ $ </tspan><tspan class="p cur">█</tspan></text></g>
+</g>
+<rect x="0.5" y="0.5" width="489" height="559" rx="10" fill="none" stroke="#30363d"/>
+</svg>

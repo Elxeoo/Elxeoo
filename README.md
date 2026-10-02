@@ -1,23 +1,74 @@
-# 🚀 Can Dumanlı | Cloud & DevOps Engineer
+<div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/candumanli/) 
-[![Azure](https://img.shields.io/badge/Microsoft_Azure-Certified-008AD7?logo=microsoftazure)](https://learn.microsoft.com/en-us/users/candumanli/)
+<h3><code>can@github ~ $ whoami</code></h3>
 
-> ## 🚀 1% Better Every Day
-> **I strongly believe in the power of compounding growth. My daily goal is simple: be 1% better than yesterday. Whether it's learning a new technology, improving a workflow, or building stronger habits, continuous progress is my ultimate metric.** 📈
+<table>
+  <tr>
+    <td valign="top"><img src="./warrior-ascii.svg" width="370" alt="ASCII art of a lone warrior with a sword under a stormy sky" /></td>
+    <td valign="top"><img src="./info-card.svg" width="490" alt="CAN - Cloud and DevOps Engineer: Azure, Terraform, AKS, Cilium eBPF, GitHub Actions, Argo CD" /></td>
+  </tr>
+</table>
 
-I am a Cloud and DevOps practitioner with a unique background in high-tempo hospitality operations (managing 500+ room resorts and crisis escalations). I successfully transitioned my operational endurance into IT infrastructure, focusing on highly available, secure, and automated cloud environments.
+<br>
 
-### 🛠️ Core Competencies
-- **Cloud & Infrastructure:** Microsoft Azure (VNets, NSG, RBAC), Terraform (Hub-Spoke architecture)
-- **Containers & Orchestration:** Docker, Kubernetes (AKS), Azure CNI Powered by Cilium (eBPF)
-- **CI/CD & GitOps:** GitHub Actions, Azure Pipelines, Argo CD
-- **Certifications:** Microsoft AZ-104 (908/1000), CompTIA Network+ (815/900), AZ-400 (In Progress)
+<h3><code>can@github ~ $ ./contributions.sh</code></h3>
 
-### 🌟 Featured Projects
-- 🛡️ **[Azure Enterprise Network](https://github.com/Elxeoo/azure-enterprise-network):** Secure Air-Gapped AI Infrastructure on Azure with Zero-Trust network topology.
-- ⚡ **[AKS Cilium eBPF Lab](https://github.com/Elxeoo/aks-cilium-ebpf-lab):** Private AKS cluster powered by Cilium eBPF overlay network.
-- 🚀 **[Enterprise GitOps ArgoCD](https://github.com/Elxeoo/enterprise-gitops-argocd):** Enterprise GitOps platform with automated reconciliation.
+<img src="./contrib-heatmap.svg" width="860" alt="Contribution heatmap for the last year" />
 
-### 📈 Philosophy
+<br><br>
+
+<h3><code>can@github ~ $ ./links.sh</code></h3>
+
+<b>Can Dumanlı · Cloud &amp; DevOps Engineer</b>
+
+<br><br>
+
+<a href="https://www.linkedin.com/in/candumanli/"><img src="https://img.shields.io/badge/LINKEDIN-candumanli-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1c1c1c" alt="LinkedIn" /></a>
+<a href="https://learn.microsoft.com/en-us/users/candumanli/"><img src="https://img.shields.io/badge/MICROSOFT_LEARN-candumanli-008AD7?style=for-the-badge&logo=microsoftazure&logoColor=white&labelColor=1c1c1c" alt="Microsoft Learn" /></a>
+
+<br><br>
+
+<h3><code>can@github ~ $ ls ./stack</code></h3>
+
+<img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure" />
+<img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" alt="Terraform" />
+<img src="https://img.shields.io/badge/Kubernetes_(AKS)-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes (AKS)" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+<img src="https://img.shields.io/badge/Cilium_eBPF-F8C517?style=flat-square&logo=cilium&logoColor=black" alt="Cilium eBPF" />
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+<img src="https://img.shields.io/badge/Azure_Pipelines-0078D7?style=flat-square&logo=azurepipelines&logoColor=white" alt="Azure Pipelines" />
+<img src="https://img.shields.io/badge/Argo_CD-EF7B4D?style=flat-square&logo=argo&logoColor=white" alt="Argo CD" />
+
+<br><br>
+
+<h3><code>can@github ~ $ cat certs.txt</code></h3>
+
+<img src="https://img.shields.io/badge/AZ--104-908%2F1000-e3b341?style=for-the-badge&logo=microsoftazure&logoColor=white&labelColor=1c1c1c" alt="Microsoft AZ-104: 908/1000" />
+<img src="https://img.shields.io/badge/NETWORK%2B-815%2F900-e3b341?style=for-the-badge&logo=comptia&logoColor=white&labelColor=1c1c1c" alt="CompTIA Network+: 815/900" />
+<img src="https://img.shields.io/badge/AZ--400-in_progress-6b4f12?style=for-the-badge&logo=microsoftazure&logoColor=white&labelColor=1c1c1c" alt="AZ-400: in progress" />
+
+<br><br>
+
+<h3><code>can@github ~ $ ls ./projects</code></h3>
+
+</div>
+
+| | Project | What it is |
+|:-:|---|---|
+| 🛡️ | **[azure-enterprise-network](https://github.com/Elxeoo/azure-enterprise-network)** | Secure air-gapped AI infrastructure on Azure with a Zero-Trust network topology. |
+| ⚡ | **[aks-cilium-ebpf-lab](https://github.com/Elxeoo/aks-cilium-ebpf-lab)** | Private AKS cluster powered by the Cilium eBPF overlay network. |
+| 🚀 | **[enterprise-gitops-argocd](https://github.com/Elxeoo/enterprise-gitops-argocd)** | Enterprise GitOps platform with automated reconciliation. |
+
+<div align="center">
+
+<br>
+
+<h3><code>can@github ~ $ cat philosophy.md</code></h3>
+
+</div>
+
+> **🚀 1% better every day.** I strongly believe in the power of compounding growth. My daily goal is simple: be 1% better than yesterday. Whether it's learning a new technology, improving a workflow, or building stronger habits, continuous progress is my ultimate metric. 📈
+
+I am a Cloud and DevOps practitioner with a background in high-tempo hospitality operations (managing 500+ room resorts and crisis escalations). I transitioned that operational endurance into IT infrastructure, focusing on highly available, secure, and automated cloud environments.
+
 In my previous career, "downtime" meant guests stranded in lobbies. In DevOps, downtime means lost revenue and broken trust. I build systems with the exact same urgency, resilience, and attention to detail that I applied to real-world crisis management.

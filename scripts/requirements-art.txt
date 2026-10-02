@@ -1,0 +1,4 @@
+# local only: regenerating the ASCII portrait
+-r requirements.txt
+pillow>=10
+numpy>=1.26
