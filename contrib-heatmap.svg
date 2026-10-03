@@ -36,7 +36,7 @@
 <text class="m" x="20" y="152.6">Wed</text>
 <text class="m" x="20" y="182.4">Fri</text>
 <rect class="d" x="50.0" y="98.0" width="11.6" height="11.6" rx="2" fill="#161b22" style="animation-delay:0.300s"/>
-<rect class="d" x="50.0" y="112.9" width="11.6" height="11.6" rx="2" fill="#6b4f12" style="animation-delay:0.312s"/>
+<rect class="d" x="50.0" y="112.9" width="11.6" height="11.6" rx="2" fill="#3d2e0a" style="animation-delay:0.312s"/>
 <rect class="d" x="50.0" y="127.8" width="11.6" height="11.6" rx="2" fill="#3d2e0a" style="animation-delay:0.324s"/>
 <rect class="d" x="50.0" y="142.7" width="11.6" height="11.6" rx="2" fill="#3d2e0a" style="animation-delay:0.336s"/>
 <rect class="d" x="50.0" y="157.6" width="11.6" height="11.6" rx="2" fill="#3d2e0a" style="animation-delay:0.348s"/>
@@ -313,7 +313,7 @@
 <rect class="d" x="631.3" y="127.8" width="11.6" height="11.6" rx="2" fill="#3d2e0a" style="animation-delay:0.792s"/>
 <rect class="d" x="631.3" y="142.7" width="11.6" height="11.6" rx="2" fill="#3d2e0a" style="animation-delay:0.804s"/>
 <rect class="d" x="631.3" y="157.6" width="11.6" height="11.6" rx="2" fill="#3d2e0a" style="animation-delay:0.816s"/>
-<rect class="d" x="631.3" y="172.5" width="11.6" height="11.6" rx="2" fill="#6b4f12" style="animation-delay:0.828s"/>
+<rect class="d" x="631.3" y="172.5" width="11.6" height="11.6" rx="2" fill="#3d2e0a" style="animation-delay:0.828s"/>
 <rect class="d" x="631.3" y="187.4" width="11.6" height="11.6" rx="2" fill="#3d2e0a" style="animation-delay:0.840s"/>
 <rect class="d" x="646.2" y="98.0" width="11.6" height="11.6" rx="2" fill="#3d2e0a" style="animation-delay:0.780s"/>
 <rect class="d" x="646.2" y="112.9" width="11.6" height="11.6" rx="2" fill="#3d2e0a" style="animation-delay:0.792s"/>
@@ -325,7 +325,7 @@
 <rect class="d" x="661.1" y="98.0" width="11.6" height="11.6" rx="2" fill="#3d2e0a" style="animation-delay:0.792s"/>
 <rect class="d" x="661.1" y="112.9" width="11.6" height="11.6" rx="2" fill="#3d2e0a" style="animation-delay:0.804s"/>
 <rect class="d" x="661.1" y="127.8" width="11.6" height="11.6" rx="2" fill="#3d2e0a" style="animation-delay:0.816s"/>
-<rect class="d" x="661.1" y="142.7" width="11.6" height="11.6" rx="2" fill="#6b4f12" style="animation-delay:0.828s"/>
+<rect class="d" x="661.1" y="142.7" width="11.6" height="11.6" rx="2" fill="#3d2e0a" style="animation-delay:0.828s"/>
 <rect class="d" x="661.1" y="157.6" width="11.6" height="11.6" rx="2" fill="#3d2e0a" style="animation-delay:0.840s"/>
 <rect class="d" x="661.1" y="172.5" width="11.6" height="11.6" rx="2" fill="#3d2e0a" style="animation-delay:0.852s"/>
 <rect class="d" x="661.1" y="187.4" width="11.6" height="11.6" rx="2" fill="#3d2e0a" style="animation-delay:0.864s"/>
@@ -380,7 +380,7 @@
 <rect class="d" x="765.5" y="187.4" width="11.6" height="11.6" rx="2" fill="#161b22" style="animation-delay:0.948s"/>
 <rect class="d" x="780.4" y="98.0" width="11.6" height="11.6" rx="2" fill="#161b22" style="animation-delay:0.888s"/>
 <rect class="d" x="780.4" y="112.9" width="11.6" height="11.6" rx="2" fill="#3d2e0a" style="animation-delay:0.900s"/>
-<rect class="d" x="780.4" y="127.8" width="11.6" height="11.6" rx="2" fill="#6b4f12" style="animation-delay:0.912s"/>
+<rect class="d" x="780.4" y="127.8" width="11.6" height="11.6" rx="2" fill="#3d2e0a" style="animation-delay:0.912s"/>
 <rect class="d" x="780.4" y="142.7" width="11.6" height="11.6" rx="2" fill="#3d2e0a" style="animation-delay:0.924s"/>
 <rect class="d" x="780.4" y="157.6" width="11.6" height="11.6" rx="2" fill="#3d2e0a" style="animation-delay:0.936s"/>
 <rect class="d" x="780.4" y="172.5" width="11.6" height="11.6" rx="2" fill="#3d2e0a" style="animation-delay:0.948s"/>
@@ -392,7 +392,7 @@
 <rect class="d" x="795.3" y="157.6" width="11.6" height="11.6" rx="2" fill="#3d2e0a" style="animation-delay:0.948s"/>
 <rect class="d" x="795.3" y="172.5" width="11.6" height="11.6" rx="2" fill="#3d2e0a" style="animation-delay:0.960s"/>
 <rect class="d" x="795.3" y="187.4" width="11.6" height="11.6" rx="2" fill="#3d2e0a" style="animation-delay:0.972s"/>
-<rect class="d" x="810.2" y="98.0" width="11.6" height="11.6" rx="2" fill="#a87a1c" style="animation-delay:0.912s"/>
+<rect class="d" x="810.2" y="98.0" width="11.6" height="11.6" rx="2" fill="#6b4f12" style="animation-delay:0.912s"/>
 <rect class="d" x="810.2" y="112.9" width="11.6" height="11.6" rx="2" fill="#3d2e0a" style="animation-delay:0.924s"/>
 <rect class="d" x="810.2" y="127.8" width="11.6" height="11.6" rx="2" fill="#161b22" style="animation-delay:0.936s"/>
 <rect class="d" x="810.2" y="142.7" width="11.6" height="11.6" rx="2" fill="#161b22" style="animation-delay:0.948s"/>
@@ -403,9 +403,10 @@
 <rect class="d" x="825.1" y="112.9" width="11.6" height="11.6" rx="2" fill="#6b4f12" style="animation-delay:0.936s"/>
 <rect class="d" x="825.1" y="127.8" width="11.6" height="11.6" rx="2" fill="#a87a1c" style="animation-delay:0.948s"/>
 <rect class="d" x="825.1" y="142.7" width="11.6" height="11.6" rx="2" fill="#6b4f12" style="animation-delay:0.960s"/>
-<rect class="d" x="825.1" y="157.6" width="11.6" height="11.6" rx="2" fill="#e3b341" stroke="#ffd77a" stroke-width="1.2" style="animation-delay:0.972s"/>
-<rect class="d" x="825.1" y="172.5" width="11.6" height="11.6" rx="2" fill="#e3b341" style="animation-delay:0.984s"/>
-<text class="t" x="50" y="224.33962264150944"><tspan class="b">1,122</tspan> contributions in the last year</text>
+<rect class="d" x="825.1" y="157.6" width="11.6" height="11.6" rx="2" fill="#e3b341" style="animation-delay:0.972s"/>
+<rect class="d" x="825.1" y="172.5" width="11.6" height="11.6" rx="2" fill="#e3b341" stroke="#ffd77a" stroke-width="1.2" style="animation-delay:0.984s"/>
+<rect class="d" x="825.1" y="187.4" width="11.6" height="11.6" rx="2" fill="#161b22" style="animation-delay:0.996s"/>
+<text class="t" x="50" y="224.33962264150944"><tspan class="b">1,128</tspan> contributions in the last year</text>
 <text class="m" x="695" y="224.33962264150944">Less</text>
 <rect x="727" y="214.33962264150944" width="11" height="11" rx="2" fill="#161b22"/>
 <rect x="742" y="214.33962264150944" width="11" height="11" rx="2" fill="#3d2e0a"/>
@@ -415,8 +416,8 @@
 <text class="m" x="806" y="224.33962264150944">More</text>
 <g class="tile" style="animation-delay:1.40s"><rect x="50.0" y="244.33962264150944" width="188.5" height="44" rx="6" fill="#161b22" stroke="#30363d"/><text class="tl" x="62.0" y="261.33962264150944">current streak</text><text class="tv" x="62.0" y="279.33962264150944">8 days</text></g>
 <g class="tile" style="animation-delay:1.52s"><rect x="250.5" y="244.33962264150944" width="188.5" height="44" rx="6" fill="#161b22" stroke="#30363d"/><text class="tl" x="262.5" y="261.33962264150944">longest streak</text><text class="tv" x="262.5" y="279.33962264150944">50 days</text></g>
-<g class="tile" style="animation-delay:1.64s"><rect x="451.0" y="244.33962264150944" width="188.5" height="44" rx="6" fill="#161b22" stroke="#30363d"/><text class="tl" x="463.0" y="261.33962264150944">best day</text><text class="tv" x="463.0" y="279.33962264150944">39 · Oct 1</text></g>
-<g class="tile" style="animation-delay:1.76s"><rect x="651.5" y="244.33962264150944" width="188.5" height="44" rx="6" fill="#161b22" stroke="#30363d"/><text class="tl" x="663.5" y="261.33962264150944">active days</text><text class="tv" x="663.5" y="279.33962264150944">304 / 370</text></g>
+<g class="tile" style="animation-delay:1.64s"><rect x="451.0" y="244.33962264150944" width="188.5" height="44" rx="6" fill="#161b22" stroke="#30363d"/><text class="tl" x="463.0" y="261.33962264150944">best day</text><text class="tv" x="463.0" y="279.33962264150944">42 · Oct 2</text></g>
+<g class="tile" style="animation-delay:1.76s"><rect x="651.5" y="244.33962264150944" width="188.5" height="44" rx="6" fill="#161b22" stroke="#30363d"/><text class="tl" x="663.5" y="261.33962264150944">active days</text><text class="tv" x="663.5" y="279.33962264150944">304 / 371</text></g>
 </g>
 <rect x="0.5" y="0.5" width="859" height="307.33962264150944" rx="10" fill="none" stroke="#30363d"/>
 </svg>
