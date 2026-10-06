@@ -401,7 +401,8 @@
 <rect class="d" x="810.2" y="187.4" width="11.6" height="11.6" rx="2" fill="#3d2e0a" style="animation-delay:0.984s"/>
 <rect class="d" x="825.1" y="98.0" width="11.6" height="11.6" rx="2" fill="#3d2e0a" style="animation-delay:0.924s"/>
 <rect class="d" x="825.1" y="112.9" width="11.6" height="11.6" rx="2" fill="#3d2e0a" style="animation-delay:0.936s"/>
-<text class="t" x="50" y="224.33962264150944"><tspan class="b">1,118</tspan> contributions in the last year</text>
+<rect class="d" x="825.1" y="127.8" width="11.6" height="11.6" rx="2" fill="#6b4f12" style="animation-delay:0.948s"/>
+<text class="t" x="50" y="224.33962264150944"><tspan class="b">1,137</tspan> contributions in the last year</text>
 <text class="m" x="695" y="224.33962264150944">Less</text>
 <rect x="727" y="214.33962264150944" width="11" height="11" rx="2" fill="#161b22"/>
 <rect x="742" y="214.33962264150944" width="11" height="11" rx="2" fill="#3d2e0a"/>
@@ -409,10 +410,10 @@
 <rect x="772" y="214.33962264150944" width="11" height="11" rx="2" fill="#a87a1c"/>
 <rect x="787" y="214.33962264150944" width="11" height="11" rx="2" fill="#e3b341"/>
 <text class="m" x="806" y="224.33962264150944">More</text>
-<g class="tile" style="animation-delay:1.40s"><rect x="50.0" y="244.33962264150944" width="188.5" height="44" rx="6" fill="#161b22" stroke="#30363d"/><text class="tl" x="62.0" y="261.33962264150944">current streak</text><text class="tv" x="62.0" y="279.33962264150944">11 days</text></g>
+<g class="tile" style="animation-delay:1.40s"><rect x="50.0" y="244.33962264150944" width="188.5" height="44" rx="6" fill="#161b22" stroke="#30363d"/><text class="tl" x="62.0" y="261.33962264150944">current streak</text><text class="tv" x="62.0" y="279.33962264150944">12 days</text></g>
 <g class="tile" style="animation-delay:1.52s"><rect x="250.5" y="244.33962264150944" width="188.5" height="44" rx="6" fill="#161b22" stroke="#30363d"/><text class="tl" x="262.5" y="261.33962264150944">longest streak</text><text class="tv" x="262.5" y="279.33962264150944">50 days</text></g>
 <g class="tile" style="animation-delay:1.64s"><rect x="451.0" y="244.33962264150944" width="188.5" height="44" rx="6" fill="#161b22" stroke="#30363d"/><text class="tl" x="463.0" y="261.33962264150944">best day</text><text class="tv" x="463.0" y="279.33962264150944">42 · Oct 2</text></g>
-<g class="tile" style="animation-delay:1.76s"><rect x="651.5" y="244.33962264150944" width="188.5" height="44" rx="6" fill="#161b22" stroke="#30363d"/><text class="tl" x="663.5" y="261.33962264150944">active days</text><text class="tv" x="663.5" y="279.33962264150944">301 / 366</text></g>
+<g class="tile" style="animation-delay:1.76s"><rect x="651.5" y="244.33962264150944" width="188.5" height="44" rx="6" fill="#161b22" stroke="#30363d"/><text class="tl" x="663.5" y="261.33962264150944">active days</text><text class="tv" x="663.5" y="279.33962264150944">302 / 367</text></g>
 </g>
 <rect x="0.5" y="0.5" width="859" height="307.33962264150944" rx="10" fill="none" stroke="#30363d"/>
 </svg>
