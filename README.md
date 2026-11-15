@@ -57,9 +57,9 @@
 
 | | Project | What it is |
 |:-:|---|---|
-| 🛡️ | **[azure-enterprise-network](https://github.com/Elxeoo/azure-enterprise-network)** | Secure air-gapped AI infrastructure on Azure with a Zero-Trust network topology. |
-| ⚡ | **[aks-cilium-ebpf-lab](https://github.com/Elxeoo/aks-cilium-ebpf-lab)** | Private AKS cluster powered by the Cilium eBPF overlay network. |
-| 🚀 | **[enterprise-gitops-argocd](https://github.com/Elxeoo/enterprise-gitops-argocd)** | Enterprise GitOps platform with automated reconciliation. |
+| 🛡️ | **[azure-enterprise-network](https://github.com/Elxeoo/azure-enterprise-network)** | Terraform hub-spoke on Azure: a VM with no internet route reaches blob storage only over Private Link; its default route ends at Azure Firewall. |
+| ⚡ | **[aks-cilium-ebpf-lab](https://github.com/Elxeoo/aks-cilium-ebpf-lab)** | Private AKS with Azure CNI Powered by Cilium: eBPF service load-balancing instead of kube-proxy, operated through a jumpbox. |
+| 🚀 | **[enterprise-gitops-argocd](https://github.com/Elxeoo/enterprise-gitops-argocd)** | Three-tier app on AKS changed only through Git: Argo CD self-heal, a broken release rolled back with `git revert`, OIDC from GitHub Actions to ACR. |
 
 <div align="center">
 
