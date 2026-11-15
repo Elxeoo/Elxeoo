@@ -57,6 +57,7 @@
 
 | | Project | What it is |
 |:-:|---|---|
+| 🏨 | **[frontdesk-platform](https://github.com/Elxeoo/frontdesk-platform)** | A hotel front-desk app shipped as scanned and signed container images and run on Kubernetes (local k3d today); Terraform-built Azure infrastructure is in place, with AKS, GitOps and canary releases in progress. |
 | 🛡️ | **[azure-enterprise-network](https://github.com/Elxeoo/azure-enterprise-network)** | Terraform hub-spoke on Azure: a VM with no internet route reaches blob storage only over Private Link; its default route ends at Azure Firewall. |
 | ⚡ | **[aks-cilium-ebpf-lab](https://github.com/Elxeoo/aks-cilium-ebpf-lab)** | Private AKS with Azure CNI Powered by Cilium: eBPF service load-balancing instead of kube-proxy, operated through a jumpbox. |
 | 🚀 | **[enterprise-gitops-argocd](https://github.com/Elxeoo/enterprise-gitops-argocd)** | Three-tier app on AKS changed only through Git: Argo CD self-heal, a broken release rolled back with `git revert`, OIDC from GitHub Actions to ACR. |
